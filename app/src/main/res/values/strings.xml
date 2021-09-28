@@ -1,0 +1,21 @@
+<resources>
+<!--    <string name="app_name">Volley</string>-->
+    <string name="app_name">Movie Library</string>
+    <string name="search">Search</string>
+    <string name="movie_name">Enter Movie Name</string>
+    <string name="button_radius" />
+    <string name="title_of_the_movie">Title of the movie</string>
+    <string name="release_year">Release Year</string>
+    <string name="type">Type</string>
+    <string name="title_of_movie">Title of the movie</string>
+    <string name="released_date_27_apr_2018">Released Date : 27 Apr 2018</string>
+    <string name="director_vicky_kumar">Director : Vicky Kumar</string>
+    <string name="language_english">Language : English</string>
+    <string name="country_india">Country : India</string>
+    <string name="runtime_146_min">Runtime : 146 min</string>
+    <string name="plot">plot</string>
+    <string name="starring">Starring :</string>
+    <string name="metascore">MetaScore</string>
+    <string name="imdb_rating">IMDB Rating</string>
+    <string name="awards_and_nominations">Awards and Nominations</string>
+</resources>
