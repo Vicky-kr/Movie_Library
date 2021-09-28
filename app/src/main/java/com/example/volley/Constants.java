@@ -2,7 +2,7 @@ package com.example.volley;
 
 public class Constants {
     final static String BASE_URL = "https://www.omdbapi.com/?apikey=";
-    final static String KEY = "adc63bda";
+    final static String KEY = "ENTER_YOUR_API_KEY";
     final static String MULTIPLE_RESULTS = "&s=";
     final static String MOVIE_ID = "MOVIE_ID";
     final static String SEARCH = "Search";
@@ -36,7 +36,7 @@ public class Constants {
 
 
     public static final String ID_SEARCH_BASE_URL = "https://www.omdbapi.com/?apikey=";
-    private static final String ID_SEARCH_KEY = "adc63bda";
+    private static final String ID_SEARCH_KEY = "ENTER_YOUR_API_KEY";
     public static final String ID_END_POINT = "&i=";
     public static final String ID_SEARCH_URL = ID_SEARCH_BASE_URL + ID_SEARCH_KEY + ID_END_POINT;
 }
